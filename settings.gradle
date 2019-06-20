@@ -1,0 +1,6 @@
+pluginManagement {
+	repositories {
+		gradlePluginPortal()
+	}
+}
+rootProject.name = 'rollingstone-ecommerce-spring-boot-xss-prevention-spring-security-v2'
